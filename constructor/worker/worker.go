@@ -29,12 +29,12 @@ import (
 	"github.com/lucasjones/reggen"
 	"github.com/tidwall/sjson"
 
-	"github.com/coinbase/rosetta-sdk-go/asserter"
-	"github.com/coinbase/rosetta-sdk-go/constructor/job"
-	"github.com/coinbase/rosetta-sdk-go/keys"
-	"github.com/coinbase/rosetta-sdk-go/storage/database"
-	"github.com/coinbase/rosetta-sdk-go/types"
-	"github.com/coinbase/rosetta-sdk-go/utils"
+	"github.com/jimni1222/rosetta-sdk-go/asserter"
+	"github.com/jimni1222/rosetta-sdk-go/constructor/job"
+	"github.com/jimni1222/rosetta-sdk-go/keys"
+	"github.com/jimni1222/rosetta-sdk-go/storage/database"
+	"github.com/jimni1222/rosetta-sdk-go/types"
+	"github.com/jimni1222/rosetta-sdk-go/utils"
 )
 
 // New returns a new *Worker.

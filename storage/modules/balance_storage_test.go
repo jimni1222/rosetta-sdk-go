@@ -27,12 +27,12 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 
-	"github.com/coinbase/rosetta-sdk-go/asserter"
-	mocks "github.com/coinbase/rosetta-sdk-go/mocks/storage/modules"
-	"github.com/coinbase/rosetta-sdk-go/parser"
-	storageErrs "github.com/coinbase/rosetta-sdk-go/storage/errors"
-	"github.com/coinbase/rosetta-sdk-go/types"
-	"github.com/coinbase/rosetta-sdk-go/utils"
+	"github.com/jimni1222/rosetta-sdk-go/asserter"
+	mocks "github.com/jimni1222/rosetta-sdk-go/mocks/storage/modules"
+	"github.com/jimni1222/rosetta-sdk-go/parser"
+	storageErrs "github.com/jimni1222/rosetta-sdk-go/storage/errors"
+	"github.com/jimni1222/rosetta-sdk-go/types"
+	"github.com/jimni1222/rosetta-sdk-go/utils"
 )
 
 func baseAsserter() *asserter.Asserter {

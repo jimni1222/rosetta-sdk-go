@@ -15,8 +15,8 @@
 package parser
 
 import (
-	"github.com/coinbase/rosetta-sdk-go/asserter"
-	"github.com/coinbase/rosetta-sdk-go/types"
+	"github.com/jimni1222/rosetta-sdk-go/asserter"
+	"github.com/jimni1222/rosetta-sdk-go/types"
 )
 
 // Parser provides support for parsing Rosetta blocks.

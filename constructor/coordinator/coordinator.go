@@ -23,12 +23,12 @@ import (
 
 	"github.com/fatih/color"
 
-	"github.com/coinbase/rosetta-sdk-go/constructor/job"
-	"github.com/coinbase/rosetta-sdk-go/constructor/worker"
-	"github.com/coinbase/rosetta-sdk-go/parser"
-	"github.com/coinbase/rosetta-sdk-go/storage/database"
-	"github.com/coinbase/rosetta-sdk-go/types"
-	"github.com/coinbase/rosetta-sdk-go/utils"
+	"github.com/jimni1222/rosetta-sdk-go/constructor/job"
+	"github.com/jimni1222/rosetta-sdk-go/constructor/worker"
+	"github.com/jimni1222/rosetta-sdk-go/parser"
+	"github.com/jimni1222/rosetta-sdk-go/storage/database"
+	"github.com/jimni1222/rosetta-sdk-go/types"
+	"github.com/jimni1222/rosetta-sdk-go/utils"
 )
 
 // New parses a slice of input Workflows

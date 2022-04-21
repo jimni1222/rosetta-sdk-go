@@ -19,7 +19,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/coinbase/rosetta-sdk-go/types"
+	"github.com/jimni1222/rosetta-sdk-go/types"
 )
 
 const (

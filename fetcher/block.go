@@ -20,8 +20,8 @@ import (
 
 	"golang.org/x/sync/errgroup"
 
-	"github.com/coinbase/rosetta-sdk-go/asserter"
-	"github.com/coinbase/rosetta-sdk-go/types"
+	"github.com/jimni1222/rosetta-sdk-go/asserter"
+	"github.com/jimni1222/rosetta-sdk-go/types"
 )
 
 const (

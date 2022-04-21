@@ -21,7 +21,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/coinbase/rosetta-sdk-go/utils"
+	"github.com/jimni1222/rosetta-sdk-go/utils"
 )
 
 func TestCounterStorage(t *testing.T) {

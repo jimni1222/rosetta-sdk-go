@@ -15,7 +15,7 @@
 package asserter
 
 import (
-	"github.com/coinbase/rosetta-sdk-go/types"
+	"github.com/jimni1222/rosetta-sdk-go/types"
 )
 
 // SearchTransactionsResponse ensures a

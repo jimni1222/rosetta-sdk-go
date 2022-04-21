@@ -20,8 +20,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/coinbase/rosetta-sdk-go/constructor/job"
-	"github.com/coinbase/rosetta-sdk-go/utils"
+	"github.com/jimni1222/rosetta-sdk-go/constructor/job"
+	"github.com/jimni1222/rosetta-sdk-go/utils"
 )
 
 func TestJobStorage(t *testing.T) {

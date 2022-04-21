@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"log"
 
-	utils "github.com/coinbase/rosetta-sdk-go/errors"
-	"github.com/coinbase/rosetta-sdk-go/types"
+	utils "github.com/jimni1222/rosetta-sdk-go/errors"
+	"github.com/jimni1222/rosetta-sdk-go/types"
 )
 
 // Error wraps the two possible types of error responses returned

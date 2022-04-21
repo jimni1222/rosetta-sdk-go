@@ -17,8 +17,8 @@ package fetcher
 import (
 	"time"
 
-	"github.com/coinbase/rosetta-sdk-go/asserter"
-	"github.com/coinbase/rosetta-sdk-go/client"
+	"github.com/jimni1222/rosetta-sdk-go/asserter"
+	"github.com/jimni1222/rosetta-sdk-go/client"
 )
 
 // Option is used to overwrite default values in
